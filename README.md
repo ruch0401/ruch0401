@@ -39,12 +39,8 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="ruch0401's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ruch0401&show_icons=true&hide_border=true" />
-
-</details>
+## GitHub Stats
+<img align="left" alt="ruch0401's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ruch0401&show_icons=true&hide_border=true" />
 
 [website]: https://ruchitbhardwaj.tech/
 [twitter]: https://twitter.com/RuchitBhardwaj/
