@@ -1,12 +1,16 @@
 ### Hi there, I'm Ruchit Bhardwaj 👋
 
-## I'm a Student, Software Engineer, Tech Enthusiast, and a Writer!!
+## I'm a Student, Software Engineer, Tech Enthusiast, and a Writer!
+
+### Currenly open to Software Engineering Internship roles for Summer 2022
 
 - 🥅 I am currently working on ETL Software solutions.
 - 🔭 I am presently learning front-end technologies along with gaining experience in end-to-end Full Stack Web Development
 - 👯 I’m looking to collaborate with other Software Engineers on all things tech
 - 🥅 2022 Goals: Start contributing to more to Open Source projects
 - ⚡ Current obsession: I love to read and learn about all things tech related, with my current obsession being WEB 3.0.
+
+
 
 ### Connect with me:
 
