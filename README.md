@@ -3,9 +3,8 @@
 ## I'm a Student, Software Engineer, Tech Enthusiast, and a Writer!!
 
 - 🥅 I am currently working on ETL Software solutions.
-- 🔭 I am currently exploring everything front-end and gaining experience in end-to-end Full Stack Web Development
-- 🌱 I'm in open towards contributing to developing robust backend systems
-- 👯 I’m looking to collaborate with other content creators
+- 🔭 I am presently learning front-end technologies along with gaining experience in end-to-end Full Stack Web Development
+- 👯 I’m looking to collaborate with other Software Engineers on all things tech
 - 🥅 2022 Goals: Start contributing to more to Open Source projects
 - ⚡ Current obsession: I love to read and learn about all things tech related, with my current obsession being WEB 3.0.
 
@@ -37,6 +36,7 @@
 <br />
 
 ## GitHub Stats
+
 <img align="left" alt="ruch0401's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ruch0401&show_icons=true&hide_border=true" />
 
 [website]: https://ruchitbhardwaj.tech/
