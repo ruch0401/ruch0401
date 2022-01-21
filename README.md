@@ -10,13 +10,11 @@
 - 🥅 2022 Goals: Start contributing to more to Open Source projects
 - ⚡ Current obsession: I love to read and learn about all things tech related, with my current obsession being WEB 3.0.
 
-
-
 ### Connect with me:
 
-[<img align="left" alt="ruch0401.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="ruch0401 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="ruch0401 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ruch0401.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" target="_blank" />][website]
+[<img align="left" alt="ruch0401 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" target="_blank"/>][twitter]
+[<img align="left" alt="ruch0401 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank"/>][linkedin]
 
 <br />
 
