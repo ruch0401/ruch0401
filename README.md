@@ -57,7 +57,11 @@
 
 ## GitHub Stats
 
-<img align="left" alt="Ruchit's GitHub Stats" src="https://github-readme-stats-e92fxnxti-ruch0401.vercel.app/api?username=ruch0401&show_icons=true&hide_border=true" />
+![Ruchit's GitHub stats](https://github-readme-stats-ruch0401.vercel.app/api?username=ruch0401&show_icons=true&hide_border=false&count_private=false&include_all_commits=true)
+
+## Top Languages Used
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruch0401&layout=compact)](https://github.com/ruch0401/github-readme-stats)
 
 [website]: https://ruchitbhardwaj.tech/
 [twitter]: https://twitter.com/RuchitBhardwaj/
