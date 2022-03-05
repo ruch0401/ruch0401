@@ -1,22 +1,12 @@
 ### Hi there, I'm Ruchit Bhardwaj 👋
 
-## I'm a Student, Software Engineer, Tech Enthusiast, and a Writer!
+## Software Engineer | Full Stack Software Developer
 
 ### Currenly open to Software Engineering Internship roles for Summer 2022
 
-- 🥅 I am currently working on ETL Software solutions.
-- 🔭 I am presently learning front-end technologies along with gaining experience in end-to-end Full Stack Web Development
-- 👯 I’m looking to collaborate with other Software Engineers on all things tech
-- 🥅 2022 Goals: Start contributing to more to Open Source projects
-- ⚡ Current obsession: I love to read and learn about all things tech related, with my current obsession being WEB 3.0.
+- Connect with me on [LinkedIn](linkedin)
+- View my [portfolio](portfolio)
 
-### Connect with me:
-
-[<img align="left" alt="ruch0401.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" target="_blank" />][website]
-[<img align="left" alt="ruch0401 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" target="_blank"/>][twitter]
-[<img align="left" alt="ruch0401 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank"/>][linkedin]
-
-<br />
 
 ### Languages and Tools:
 
@@ -58,6 +48,8 @@
 ## GitHub Stats
 
 ![Ruchit's GitHub stats](https://github-readme-stats-ruch0401.vercel.app/api?username=ruch0401&show_icons=true&hide_border=false&count_private=false&include_all_commits=true)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ruch0401)](https://git.io/streak-stats)
 
 ## Top Languages Used
 
