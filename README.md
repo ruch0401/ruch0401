@@ -4,9 +4,8 @@
 
 ### Currenly open to Software Engineering Internship roles for Summer 2022
 
-- Connect with me on [LinkedIn](linkedin)
-- View my [portfolio](portfolio)
-
+- Connect with me on [LinkedIn](https://linkedin.com/in/ruch0401/)
+- View my [portfolio](https://ruchitbhardwaj.tech/)
 
 ### Languages and Tools:
 
