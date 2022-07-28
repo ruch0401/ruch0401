@@ -2,7 +2,7 @@
 
 ## Software Engineer | Full Stack Software Developer
 
-### Currenly open to Software Engineering Internship roles for Summer 2022
+### Currently open to Full-time Software Engineering roles starting Summer 2023
 
 - Connect with me on [LinkedIn](https://linkedin.com/in/ruch0401/)
 - View my [portfolio](https://ruchitbhardwaj.tech/)
