@@ -7,7 +7,7 @@
 - Connect with me on [LinkedIn](https://linkedin.com/in/ruch0401/)
 - View my [portfolio](https://ruchitbhardwaj.tech/)
 
-### Languages and Tools:
+### Languages and Tools: 
 
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 
