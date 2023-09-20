@@ -1,47 +1,16 @@
-### Hi there, I'm Ruchit Bhardwaj 👋
+# Ruchit Bhardwaj
 
-## Software Engineer | Full Stack Software Developer
+Software Engineer | Master's in Computer Science
 
-### Currenlty open to Full-Time SDE Roles starting Summer 2023
-- Connect with me on [LinkedIn](https://linkedin.com/in/ruch0401/)
-- View my [portfolio](https://ruchitbhardwaj.tech/)
+Passionate about learning and building systems that scale.
 
-### Languages and Tools: 
+Connect with me on [LinkedIn](https://linkedin.com/in/ruch0401/) or visit my [website](https://ruchitbhardwaj.tech/).
 
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+## Experience
 
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+- Software Engineer II at McKinsey & Company (May 2023 - Present)
+- Software Engineer at ZS Associates (January 2019 - July 2021)
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
-<img align="left" alt="ExpressJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
-
-<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/aws/aws.png" />
-
-<img align="left" alt="Maven" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/maven/maven.png" />
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<br />
-<br />
 
 ## GitHub Stats
 
@@ -49,9 +18,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ruch0401)](https://git.io/streak-stats)
 
-## Top Languages Used
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruch0401&layout=compact)](https://github.com/ruch0401/github-readme-stats)
 
 [website]: https://ruchitbhardwaj.tech/
 [twitter]: https://twitter.com/RuchitBhardwaj/
