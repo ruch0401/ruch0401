@@ -8,7 +8,8 @@ Connect with me on [LinkedIn](https://linkedin.com/in/ruch0401/) or visit my [we
 
 ## Experience
 
-- Software Engineer II at McKinsey & Company (May 2023 - Present)
+- Software Engineer at ZS Associates (July 2024 - Present)
+- Software Engineer II at McKinsey & Company (May 2023 - June 2024)
 - Software Engineer at ZS Associates (January 2019 - July 2021)
 
 
